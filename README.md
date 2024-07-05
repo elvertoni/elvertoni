@@ -2,12 +2,10 @@
 
 Olá, eu sou o Elvertoni Coimbra
 
-## Atualmente estudando
-- Html
-- CSS
-- JavaScript
-- Java
-- Node.js
+## Atualmente estudando Inteligência Artificial
+- Python
+- R
+- SQL
 
 ## Meus contados
 - GitHub @elvertoni
