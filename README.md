@@ -1,9 +1,10 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Elvertoni Coimbra
+Olá, eu sou o Elvertoni Coimbra,
 
 ## Atualmente estudando Inteligência Artificial
 - Python
+- LangChain
 - R
 - SQL
 
